@@ -8,3 +8,9 @@ TOP has provided dummy Text however, I will attempt to make a business looking w
 This project is based off of HTML and CSS principles learnt on the Odin Project.
 
 # Links to Images used:
+
+bannerEagle - Jason Buscema (_October 8, 2019_): [https://unsplash.com/photos/8QKKVxwk6LA]
+Eagle 1 - Alfred Kenneally (_November 3, 2022_): [https://unsplash.com/photos/UsgLeLorRuM]
+Eagle 2 - Richard Lee (_January 27, 2020_): [https://unsplash.com/photos/F12BtzEeVyk]
+Eagle 3 - Richard Lee (_December 3, 2019_): [https://unsplash.com/photos/ys4najRQRkA]
+Eagle 4 - Zdeněk Macháček (_August 30,2019_): [https://unsplash.com/photos/IJboLCiDwKY]
