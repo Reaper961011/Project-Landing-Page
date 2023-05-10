@@ -35,3 +35,44 @@ ul li a:hover{
     font-size: 24px;
     font-weight: bold;
 }
+
+.heading-banner{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    background-color: #1F2937;
+    height: 450px;
+}
+
+.banner-eagle{
+    width: 600px;
+    height: 350px;
+    border-radius: 45px;
+}
+
+.heading-content{
+    width: 400px;
+}
+.heading-content h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin-bottom: 5px;
+}
+.heading-content p{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.heading-content button{
+    border: none;
+    background-color: #3882F6;
+    border-radius: 5px;
+    width: 120px;
+    height: 35px;
+    color: #E5E7EB;
+    font-weight: bold;
+    font-size: 18px;
+}
