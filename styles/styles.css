@@ -44,6 +44,7 @@ ul li a:hover{
     gap: 50px;
     background-color: #1F2937;
     height: 450px;
+    flex-wrap: wrap;
 }
 
 .banner-eagle{
