@@ -8,8 +8,8 @@ body{
     background-color: #1F2937;
     align-items: center;
     justify-content: space-between;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 5%;
+    padding-right: 5%;
     margin: 0;
 }
 li a{
@@ -48,9 +48,12 @@ ul li a:hover{
 }
 
 .banner-eagle{
-    width: 600px;
-    height: 350px;
+    width: 35vw;
+    height: 30vh;
     border-radius: 45px;
+    min-width: 100px;
+    min-height: 50px;
+    flex-basis: 3;
 }
 
 .heading-content{
